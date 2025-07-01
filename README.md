@@ -16,18 +16,6 @@ Estimate respiration rate using ECG signals by analyzing R-R interval variabilit
 
 7.Visualize filtered ECG and frequency spectrum
 
-🛠 Requirements
-Install dependencies:
-
-pip install wfdb heartpy numpy matplotlib scipy
-
-Download these files from PhysioNet:
-
-100.hea
-
-100.dat
-
-Place them in the same directory as your script.
 
 Run the Script
 
