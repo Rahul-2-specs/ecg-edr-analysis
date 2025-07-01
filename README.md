@@ -31,7 +31,7 @@ Place them in the same directory as your script.
 
 Run the Script
 
-python ecg_respiration_estimation.py
+python main.py
 
 Sample Output
 
